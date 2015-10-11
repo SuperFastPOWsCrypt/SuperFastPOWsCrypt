@@ -1,0 +1,9 @@
+Building SuperFastPOWsCrypt
+
+See doc/readme-qt.rst for instructions on building SuperFastPOWsCrypt-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SuperFastPOWsCrypt.
+
+See doc/build-*.txt for instructions on building superfastpowscryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SuperFastPOWsCrypt.
